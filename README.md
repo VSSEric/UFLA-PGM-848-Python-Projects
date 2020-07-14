@@ -10,3 +10,11 @@ This is my python projects repository, which was created as a requirement of UFL
                                          | ericvinicius.vs@gmail.com | linkedin.com/in/vseric | 
 
 ---
+
+
+---
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54208959/87484645-148ed180-c60d-11ea-8566-7d35bf2dbe69.png">
+</p>
+
+---
