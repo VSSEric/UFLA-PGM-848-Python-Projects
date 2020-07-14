@@ -18,3 +18,9 @@ This is my python projects repository, which was created as a requirement of UFL
 </p>
 
 ---
+
+---
+## Sugestions
+
+- Your are welcome to make suggestions, point out errors and mistakes: ericvinicius.vs@gmail.com
+- Thank you
