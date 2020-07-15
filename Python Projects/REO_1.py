@@ -108,7 +108,7 @@ print(' ')
 
 print("1.j) Crie um sequência de valores com mesmo tamanho do vetor original e que inicie em 1 e o passo seja também 1.")
 print('Answer:')
-seq = range(1, len(my_vector), 1)
+seq = range(1, len(my_vector)+1, 1)
 seq = np.array(seq)
 print('The sequence is: ' + str(seq))
 print('-'*50)
